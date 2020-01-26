@@ -1,3 +1,19 @@
+
+- Download from git
+- Root directory
+    - npm install
+- cd server
+    - npm install
+- Run server
+  - cd server
+    - npm run server
+- Run Client
+    - Root directory
+        - npm start
+
+
+-------------------------------------------------------------------------
+
 - create-react-app
     To fix the error gyp: No Xcode or CLT version detected! In Mac OS Catalina
         https://medium.com/@allanphilipbarku/gyp-no-xcode-or-clt-version-detected-macos-catalina-anansewaa-38b536389e8d
